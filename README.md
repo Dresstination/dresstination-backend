@@ -34,4 +34,5 @@ This app uses Gemini API to provide the ability to generate different fashion su
 - [@kshitij-404](https://www.github.com/kshitij-404)
 - [@rajvarsani](https://www.github.com/rajvarsani)
 - [@22chiragmodh](https://www.github.com/22chiragmodh)
+- [@ujjawalgupta30](https://github.com/UjjawalGupta30)
 
